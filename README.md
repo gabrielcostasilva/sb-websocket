@@ -1,5 +1,5 @@
 # Spring Boot WebSocket Examples
-This repo groups examples of my other repos showing WebSocket examples.
+This repo groups examples of my other repos showing WebSocket examples with Spring Boot.
 
 ## Examples
 
